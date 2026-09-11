@@ -1,6 +1,6 @@
 # 🦖 ARK: Survival Ascended (Build 28072025) - Việt Hóa Full Online / Offline
 
-![ARK: Survival Ascended](input_file_0.png)
+![ARK: Survival Ascended](image.png)
 
 ---
 
