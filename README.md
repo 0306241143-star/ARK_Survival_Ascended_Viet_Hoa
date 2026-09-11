@@ -1,14 +1,14 @@
 # 🦖 ARK: Survival Ascended (Build 28072025) - Việt Hóa Full Online / Offline
 
-![alt text](image.png)
+![ARK: Survival Ascended](image.png)[cite: 4]
 
 ---
 
 ## 📖 Giới Thiệu Game
 
-**ARK: Survival Ascended** là bản tái sinh toàn diện của tựa game sinh tồn huyền thoại *ARK: Survival Evolved*, được tái xây dựng từ đầu trên nền tảng công nghệ thế hệ mới **Unreal Engine 5**. 
+**ARK: Survival Ascended** là bản tái sinh toàn diện của tựa game sinh tồn huyền thoại *ARK: Survival Evolved*, được nâng cấp toàn diện trên nền tảng công nghệ **Unreal Engine 5**. 
 
-Bạn sẽ thức dậy trên một hòn đảo bí ẩn nguyên thủy, học cách thích nghi với môi trường khắc nghiệt, xây dựng căn cứ, chế tạo vũ khí và chinh phục hàng trăm loài khủng long cùng sinh vật cổ đại độc đáo để vươn lên đứng đầu chuỗi thức ăn.
+Bạn sẽ thức dậy trên một hòn đảo nguyên thủy bí ẩn, học cách thích nghi với môi trường khắc nghiệt, xây dựng căn cứ, chế tạo vũ khí và chinh phục hàng trăm loài khủng long cùng sinh vật cổ đại để vươn lên đứng đầu chuỗi thức ăn.
 
 ---
 
@@ -28,66 +28,65 @@ Bạn sẽ thức dậy trên một hòn đảo bí ẩn nguyên thủy, học c
 
 ## ✨ Đặc Điểm Nổi Bật
 
-* **Đồ Họa UE5 Đỉnh Cao:** Áp dụng công nghệ chiếu sáng động **Lumen** (Global Illumination) và dựng hình chi tiết **Nanite** giúp tái hiện từng ngọn cỏ, dòng nước và bộ lông khủng long vô cùng chân thực.
-* **Hệ Thống Vật Lý Môi Trường Tương Tác:**
-  * Mặt nước tạo sóng, bọt khí và gợn sóng chính xác theo chuyển động của sinh vật.
-  * Tán lá, cây cối phản ứng linh hoạt khi bị nhân vật va chạm, trúng đạn hoặc do đòn tấn công từ khủng long.
-  * Công trình sụp đổ vỡ vụn sinh động, tương tác chân thực với địa hình xung quanh.
-* **Trọn Bộ Nội Dung Mở Rộng:** Bao gồm tất cả các bản đồ thế giới của ARK như *The Island, Scorched Earth, Aberration, Extinction, ARK Genesis Part 1 & Part 2*.
+* **Đồ Họa UE5 Đỉnh Cao:** Tích hợp công nghệ chiếu sáng động **Lumen** (Global Illumination) và dựng hình chi tiết **Nanite** giúp tái hiện môi trường, dòng nước và lớp vảy khủng long sống động.
+* **Tương Tác Môi Trường Vật Lý:**
+  * Mặt nước tạo sóng và bọt khí chính xác theo chuyển động của sinh vật.
+  * Tán lá, cây cối phản ứng linh hoạt khi chịu va chạm hoặc tác động từ đòn tấn công.
+  * Công trình sụp đổ vỡ vụn chân thực theo quy luật vật lý.
+* **Trọn Bộ Nội Dung Mở Rộng:** Bao gồm đầy đủ các bản đồ thế giới như *The Island, Scorched Earth, Aberration, Extinction, ARK Genesis Part 1 & Part 2*.
 * **Cải Tiến Quality of Life (QoL):** 
-  * Thiết kế lại toàn bộ giao diện người dùng (UI).
-  * Định vị chuyển động sinh vật thông minh hơn, bổ sung thêm hệ thống sinh vật con dại (Wild Babies).
-  * Tích hợp Chế độ chụp ảnh (Photo Mode), hệ thống camera và theo dõi bản đồ mới.
-* **Tính Năng Đa Nền Tảng (Cross-Platform):** Tải và cài đặt trực tiếp các bản Mod do cộng đồng sáng tạo thông qua trình duyệt Mod tích hợp sẵn trong game.
-
----
-
-## 🖼️ Hình Ảnh Trong Game
-
+  * Giao diện người dùng (UI) được thiết kế lại tối ưu hơn.
+  * Trí tuệ nhân tạo (AI) di chuyển thông minh hơn, bổ sung thêm hệ thống sinh vật con dại (Wild Babies).
+  * Tích hợp Chế độ chụp ảnh (Photo Mode) và hệ thống định vị bản đồ mới.
+* **Tính Năng Đa Nền Tảng (Cross-Platform):** Tải và cài đặt trực tiếp các bản Mod do cộng đồng sáng tạo thông qua trình duyệt Mod tích hợp sẵn.
 
 ---
 
 ## 💻 Cấu Hình Yêu Cầu
 
-### Cấu hình tối thiểu (Minimum)
-* **Hệ điều hành:** Windows 10 64-bit
-* **CPU:** AMD Ryzen 5 2600X hoặc Intel Core i7-6800K
-* **RAM:** 16 GB
-* **Card đồ họa (GPU):** AMD Radeon RX 5600 XT hoặc NVIDIA GeForce GTX 1080
-* **DirectX:** Version 12
-* **Dung lượng ổ đĩa:** 80 GB chỗ trống khả dụng (khuyên dùng SSD)
-* **Kết nối:** Cáp mạng Internet
-
-### Cấu hình đề nghị (Recommended)
-* **Hệ điều hành:** Windows 10 64-bit
-* **CPU:** AMD Ryzen 5 3600X hoặc Intel Core i5-10600K
-* **RAM:** 16 GB
-* **Card đồ họa (GPU):** AMD Radeon RX 6800 hoặc NVIDIA GeForce RTX 3080
-* **DirectX:** Version 12
-* **Dung lượng ổ đĩa:** 110 GB chỗ trống khả dụng (khuyên dùng SSD)
-* **Kết nối:** Cáp mạng Internet
+| Thành phần | Yêu cầu tối thiểu (Minimum) | Yêu cầu đề nghị (Recommended) |
+| :--- | :--- | :--- |
+| **Hệ điều hành** | Windows 10 64-bit | Windows 10 64-bit |
+| **CPU** | AMD Ryzen 5 2600X hoặc Intel Core i7-6800K | AMD Ryzen 5 3600X hoặc Intel Core i5-10600K |
+| **RAM** | 16 GB | 16 GB |
+| **GPU** | AMD Radeon RX 5600 XT hoặc NVIDIA GeForce GTX 1080 | AMD Radeon RX 6800 hoặc NVIDIA GeForce RTX 3080 |
+| **DirectX** | Version 12 | Version 12 |
+| **Dung lượng trống** | 80 GB chỗ trống (Khuyên dùng SSD) | 110 GB chỗ trống (Khuyên dùng SSD) |
+| **Kết nối** | Cáp mạng Internet | Cáp mạng Internet |
 
 ---
 
-## 🛠️ Hướng Dẫn Cài Đặt (Bản Offline / Việt Hóa Sẵn)
+## 🛠️ Hướng Dẫn Cài Đặt
 
-1. Tải đầy đủ 5 Part từ danh sách link bên dưới về cùng một thư mục.
-2. Giải nén file vừa tải về bằng phần mềm WinRAR hoặc 7-Zip với mật khẩu: `topgamepc.com`
-3. Mở thư mục đã giải nén, truy cập theo đường dẫn:
-   `ShooterGame\Binaries\Win64`
-4. Tìm và khởi chạy file `ArkAscended.exe` để bắt đầu chơi game.
-*(Bản game đã được tích hợp sẵn gói Việt Hóa, không cần thao tác chép đè thủ công)*.
-
-> **📌 Lưu ý quan trọng:**
-> * Nên tắt tạm thời phần mềm diệt virus hoặc Windows Defender trước khi giải nén để tránh bị xóa nhầm file kích hoạt game.
-> * Cài đặt đầy đủ bộ thư viện `Visual C++ Redistributable` và `DirectX` mới nhất nếu gặp lỗi thiếu file `.dll` khi mở game.
+1. Tải đầy đủ 5 Part từ danh sách liên kết bên dưới về cùng một thư mục.
+2. Giải nén file vừa tải bằng **WinRAR** hoặc **7-Zip** với mật khẩu: `topgamepc.com`
+3. Mở thư mục đã giải nén, truy cập theo đường dẫn: `ShooterGame\Binaries\Win64`
+4. Khởi chạy file `ArkAscended.exe` để bắt đầu chơi *(Bản game đã tích hợp sẵn gói Việt Hóa)*.
 
 ---
 
-## 📥 Link Tải Game (Tự Động Tải Trực Tiếp)
+## ⚙️ Bộ Cài Đặt Thư Viện Runtime (Sửa Lỗi DLL / Không Vào Được Game)
+
+Trường hợp gặp lỗi thiếu tệp tin `.dll` hoặc game không khởi động, hãy cài đặt các công cụ bổ trợ đi kèm dưới đây[cite: 4]:
+
+* **DirectX End-User Runtime Web Installer (`dxwebsetup.exe`):** Cập nhật thư viện đồ họa DirectX[cite: 4].
+  * **Dung lượng:** 295,320 bytes (~288 KB)[cite: 4]
+  * **SHA256:** `2cf71d098c608c56e07f4655855a886c3102553f648df88458df616b26fd612f`[cite: 4]
+  * **Tải về:** [Download dxwebsetup.exe](./dxwebsetup.exe)[cite: 4]
+
+* **Microsoft Visual C++ Redistributable x64 (`VC_redist.x64.exe`):** Thư viện Visual C++ cho Windows 64-bit[cite: 4].
+  * **Dung lượng:** 25,635,768 bytes (~24.45 MB)[cite: 4]
+  * **SHA256:** `cc0ff0eb1dc3f5188ae6300faef32bf5beeba4bdd6e8e445a9184072096b713b`[cite: 4]
+  * **Tải về:** [Download VC_redist.x64.exe](./VC_redist.x64.exe)[cite: 4]
+
+> **📌 Lưu ý:** Tắt tạm thời phần mềm diệt virus hoặc Windows Defender trước khi giải nén để tránh bị xóa nhầm file kích hoạt.
+
+---
+
+## 📥 Link Tải Game (Google Drive - 5 Parts)
 
 <a href="https://drive.google.com/uc?export=download&confirm=t&id=1XtzBKP0wmSjWz2VoOsED-I9OPBoJO1CK"><button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin: 5px;">🔴 Tải Game - PART 1</button></a>
-	<a href="https://drive.google.com/uc?export=download&confirm=t&id=1vsbveyYefLzMwgMGIhn3uHjOyPaGzPPo"><button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin: 5px;">🔵 Tải Game - PART 2</button></a>
-	<a href="https://drive.google.com/uc?export=download&confirm=t&id=1s-onDIh6mJ7GVgDc5ubAeF3WZ2o0h_Zh"><button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin: 5px;">🟢 Tải Game - PART 3</button></a>
-	<a href="https://drive.google.com/uc?export=download&confirm=t&id=1U2PWfpB7lsyZq2I146o9SrzMCuKSQ3yM"><button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin: 5px;">🟡 Tải Game - PART 4</button></a>
-	<a href="https://drive.google.com/uc?export=download&confirm=t&id=11WxILUaU0D75GnbO075Kpq2bM-S1TKd5"><button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin: 5px;">🟣 Tải Game - PART 5</button></a>
+<a href="https://drive.google.com/uc?export=download&confirm=t&id=1vsbveyYefLzMwgMGIhn3uHjOyPaGzPPo"><button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin: 5px;">🔵 Tải Game - PART 2</button></a>
+<a href="https://drive.google.com/uc?export=download&confirm=t&id=1s-onDIh6mJ7GVgDc5ubAeF3WZ2o0h_Zh"><button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin: 5px;">🟢 Tải Game - PART 3</button></a>
+<a href="https://drive.google.com/uc?export=download&confirm=t&id=1U2PWfpB7lsyZq2I146o9SrzMCuKSQ3yM"><button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin: 5px;">🟡 Tải Game - PART 4</button></a>
+<a href="https://drive.google.com/uc?export=download&confirm=t&id=11WxILUaU0D75GnbO075Kpq2bM-S1TKd5"><button style="background-color: #4285F4; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; margin: 5px;">🟣 Tải Game - PART 5</button></a>
