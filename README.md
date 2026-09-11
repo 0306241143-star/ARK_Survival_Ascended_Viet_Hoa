@@ -44,10 +44,6 @@ Bạn sẽ thức dậy trên một hòn đảo bí ẩn nguyên thủy, học c
 
 ## 🖼️ Hình Ảnh Trong Game
 
-![alt text](image-1.png)
-
-![alt text](image-2.png)
-![alt text](image-3.png)
 
 ---
 
